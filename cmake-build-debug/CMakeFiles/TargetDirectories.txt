@@ -1,0 +1,3 @@
+/Users/changyonggang/code/cpp/rocksdb_demo/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/changyonggang/code/cpp/rocksdb_demo/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/changyonggang/code/cpp/rocksdb_demo/cmake-build-debug/CMakeFiles/rocksdb_demo.dir
